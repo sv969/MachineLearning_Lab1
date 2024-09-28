@@ -1,7 +1,7 @@
 # MachineLearning_Lab1
 This is Machine Learning Lab 1 Assignment. For this we have to use spam.csv file,  Test Sklearn Algorithms &amp; Implement Naive Bayes from Scratch for data processing, Calculate Probabilities, Prediction and Evaluation
 
-# Step 1: Download the spam.csv Download spam.csv File
+# Step 1: Download spam.csv File
 Start by downloading the spam.csv file, which contains the dataset you will be using for this task. Make sure to place the file in an easily accessible location on your machine or upload it directly to your Google Colab environment.
 
 # Step 2: Test Sklearn Algorithms
